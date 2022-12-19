@@ -1,1 +1,1 @@
-# stoic.github.io
+# stoic
