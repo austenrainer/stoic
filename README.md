@@ -1,1 +1,1 @@
-# stoic: stories and computing
+# stoics: stories and computations
