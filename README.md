@@ -34,7 +34,7 @@ Creative HAZOP can be applied in two modes:
 Creative HAZOP has been successfully applied to:
 + Short stories
 + Chapters from novels
-+ script
++ Scripts
 
 Furthermore, whilst Creative HAZOP might typically be applied to *drafts*, the technique can in principle be applied (retrospectively) to completed pieces of work, e.g., those that have been published.
 
@@ -55,5 +55,27 @@ Furthermore, whilst Creative HAZOP might typically be applied to *drafts*, the t
 | After | Effect of a specified fictive component being encountered by the reader after another |
 | Same | Information conveyed to the reader about this component remains the same throughout |
 | Different| Information conveyed to the reader about this component changes |
+
+### Example questions ''triggered'' by Creative HAZOP
+
+The following table provides examples of the questions that might be "triggered" in the process of applying Creative HAZOP. In the table, C = Critique and B = Brainstorming. 
+
+| Guide word | Component | Example application | Mode |
+| ---------- | --------- | ------------------- | ---- |
+| Not enough | Plot      | As a reader, I don’t think enough happens | C |
+| Early      | Plot      | What if we found out about some event earlier? | B |
+| More       | Theme     | As a reader, I thought the themes under-developed | C |
+| Reverse    | Theme     | What if the opposite (literary, political, moral…) perspective were presented? | B |
+| Same       | Character | I didn’t think the characters changed or had a narrative arc | C |
+| After      | Character | What if (some aspect of) a character was only conveyed after another event? | B |
+| Different  | Voice     | As a reader, there is too much metaphor | C |
+| As well as | Voice     | How would our perceptions change if this were told with multiple narratives? | B |
+
+
+
+
+
+
+
 
 
