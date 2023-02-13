@@ -2,6 +2,8 @@
 
 ## Creative HAZOP
 
+### Overview
+
 Hazard and Operability Analysis (HAZOP) is a structured, collaborative technique from safety engineering that uses a set of guidewords to ask "what could go wrong with the system? What would happen in each case?". We have taken HAZOP, modified it into Creative HAZOP (CHAZOP) and applied it to fiction editing. CHAZOP comprises a set of guidewords and a set of fictive components.
 
 As with HAZOP, the guidewords are structured around information flows to each part of the system or, in our case, parts of the fictive artefact, e.g., a short story or a novel. Examples of guidewords are:
@@ -21,6 +23,22 @@ In addition, we add a set of fictive components. The fictive components may be u
 
 Part of the activity of applying CHAZOP is to determine which fictive components are (most) important.
 
+### Two modes of application
+
+Creative HAZOP can be applied in two modes:
++ Critique: the reader (which might be the writer too) or readers attempts to identify what didn’t work for the reader
++ Brainstorming: the reviewers of the story undertake a "what if...?", e.g., what if some information was presented earlier, or later, or differently?
+
+### Indicative types of fiction to which CHAZOP can be applied
+
+Creative HAZOP has been successfully applied to:
++ Short stories
++ Chapters from novels
++ script
+
+Furthermore, whilst Creative HAZOP might typically be applied to *drafts*, the technique can in principle be applied (retrospectively) to completed pieces of work, e.g., those that have been published.
+
+### Fictive components
 
 | Guide word | Meaning |
 | ---------- | ---------- |
