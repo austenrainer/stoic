@@ -1,4 +1,4 @@
-# stoics: stories and computations
+# STOIC: Story thinking and Computational thinking
 
 ## Creative HAZOP
 
@@ -40,6 +40,8 @@ Furthermore, whilst Creative HAZOP might typically be applied to *drafts*, the t
 
 ### Fictive components
 
+A summary of the fictive components is provided below.
+
 | Guide word | Meaning |
 | ---------- | ---------- |
 | Not enough | Insufficient emphasis, clarity or focus on this fictive component |
@@ -58,7 +60,7 @@ Furthermore, whilst Creative HAZOP might typically be applied to *drafts*, the t
 
 ### Example questions ''triggered'' by Creative HAZOP
 
-The following table provides examples of the questions that might be "triggered" in the process of applying Creative HAZOP. In the table, C = Critique and B = Brainstorming. 
+The following table provides examples of the questions that might be "triggered" in the process of applying Creative HAZOP. In the table, C = Critique and B = Brainstorming.
 
 | Guide word | Component | Example application | Mode |
 | ---------- | --------- | ------------------- | ---- |
