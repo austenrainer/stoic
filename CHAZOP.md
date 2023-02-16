@@ -29,7 +29,13 @@ Creative HAZOP can be applied in the following modes:
 
 ## The effect of applying CHAZOP
 
-In the brainstorming mode of application, the CHAZOP process, together with the physical cards used, encourages those participating in the process to approach the piece being "CHAZOPed" with curiousity rather than judgement. By collectively focusing on "What if...?", CHAZOP encourages participants to create a "safe space" in which participatnts treat the piece being CHAZOPed as a piece of work "out there" in the centre of the group that the group can collectively wonder about. This is a little bit like a group of observers engaging with a sculpture. This approach helps to move the group away from a dynamic of group vs author, where the group collectively ``attack'' the piece and the author finds themself "defending" it. When used in the curiousity-oriented brainstorming mode, where everyone is in a safe space, the author may find that they are confidently able to answer many of the "what if?" questions being asked and in doing so the author can discover they have a much deeper understanding of the piece than they might have realised.
+In the brainstorming mode of application, the CHAZOP process, together with the physical cards used, encourages those participating in the process to approach the piece being "CHAZOPed" with curiousity rather than judgement. By collectively focusing on "What if...?", CHAZOP encourages participants to create a "safe space" in which participants treat the piece being CHAZOPed as a piece of work "out there" in the "centre" of the group that the group can collectively wonder about. This is a little bit like a group of observers engaging with a sculpture. This approach helps to move the group away from a dynamic of group vs author, where the group collectively ``attack'' the piece and the author finds themself "defending" it. When used in this curiousity-oriented brainstorming mode, where everyone is in a safe space, the author may find that they are confidently able to answer many of the "what if?" questions being asked, and in doing so the author can discover they have a much deeper understanding of the piece than they might first have realised.
+
+In summary:
++ The guidewords provide neutral language;
++ The guidewords and fictive components provide a standard framework that participants can use to "objectively" ask questions;
++ The physical cards encourage an attitude of detachment, helping to de-personalise the conversation;
++ The placing of the cards in the centre of the space (e.g., on the table) helps to also centre the conversation, again de-personalising it. 
 
 ## Indicative types of fiction to which CHAZOP can be applied
 
