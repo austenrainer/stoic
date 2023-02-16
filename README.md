@@ -1,6 +1,6 @@
 # STOIC: Story thinking and Computational thinking
 
-## Creative HAZOP
+## [Creative HAZOP](../stoics/chazop.md)
 
 ### Overview
 
