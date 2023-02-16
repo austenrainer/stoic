@@ -81,3 +81,6 @@ The following table provides examples of the questions that might be "triggered"
 | Different  | Voice     | As a reader, there is too much metaphor | C |
 | As well as | Voice     | How would our perceptions change if this were told with multiple narratives? | B |
 
+## Examples of the application of Creative HAZOP
+
+Creative HAZOP has been used in two workshops at the Crescent Arts Centre in Belfast. In the first workshop, we applied Creative HAZOP to draft short stories, and one chapter of a novel, all written by professional writers. In the second workshop, we applied Creative HAZOP to chapters of novels, a short story and a script.
