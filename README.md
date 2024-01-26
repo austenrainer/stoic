@@ -12,7 +12,7 @@ The STOIC project is an ongoing collaboration between [Catherine Menon](https://
 
 ## [Creative HAZOP](../CHAZOP.md)
 
-One practical output of the STOIC project is the [Creative HAZOP](../CHAZOP.md) method
+One practical output of the STOIC project is the [Creative HAZOP](../main/CHAZOP.md) method
 
 
 
