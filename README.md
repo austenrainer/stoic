@@ -10,9 +10,9 @@ The STOIC project is an ongoing collaboration between [Catherine Menon](https://
 + Software engineering makes considerable use of story-like representations, in particular the user story and the scenario. We are also investigating the extent to which the user story and the scenario "satisfy" the criteria for a story; and, together with this, are investigating the extent to which software engineering has grounded its concepts of story in the narrative disciplines.
 
 
-## [Creative HAZOP](../main/CHAZOP.md)
+## [Creative HAZOP](../CHAZOP.md)
 
-One practical output of the STOIC project is the [Creative HAZOP](../main/CHAZOP.md) method
+One practical output of the STOIC project is the [Creative HAZOP](../CHAZOP.md) method
 
 
 
