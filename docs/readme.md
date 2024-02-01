@@ -15,7 +15,7 @@ We’ve taken a technique from safety software engineering, HAZOP, revised it, a
 
 A summary of Creative HAZOP (CHAZOP) is available [here](chazop.md).
 
-## Computational creativity workshop
+## Ethical co-creativity with AI: A hands-on workshop at the International Conference on Computational Creativity 2024
 
 We're planning to work with computational creatives at a one-day workshop. Details are [here](iccc2024workshop.md).
 
