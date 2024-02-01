@@ -7,6 +7,7 @@ This hands-on workshop explores how software engineering techniques used to deve
 ## Organisers
 
 Prof. Austen Rainer, Queen’s University Belfast, Northern Ireland (Primary contact)
+
 Dr. Catherine Menon, University of Hertfordshire, England
 
 ## Description of the event’s purpose and scope
@@ -22,12 +23,12 @@ We'll use two expansions of HAZOP in this workshop: the extant CHAZOP methodolog
 Indicative number of participants are between six and eighteen participants.
 
 We invite participants who:
-•	Have a background in engineering, software, computation or safety assessment
-•	Will create a supportive space for creativity;
-•	Are willing to produce preliminary creative outputs in a time-constrained situation;
-•	Are willing to share those creative outputs with others in the workshop;
-•	Are interested in stories in their various forms, e.g., flash fiction, short stories;
-•	Are open-minded to the unpredictability that arises with creativity.
+- Have a background in engineering, software, computation or safety assessment
+- Will create a supportive space for creativity;
+- Are willing to produce preliminary creative outputs in a time-constrained situation;
+- Are willing to share those creative outputs with others in the workshop;
+- Are interested in stories in their various forms, e.g., flash fiction, short stories;
+- Are open-minded to the unpredictability that arises with creativity.
 
 ## Indicative format and duration of the workshop
 
