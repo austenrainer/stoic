@@ -26,3 +26,9 @@ A summary of Ethical HAZOP (EHAZOP) is available [here](ehazop.md).
 We're planning to work with computational creatives at a one-day workshop. Details are [here](iccc2024workshop.md).
 
 This hands-on workshop explores how software engineering techniques used to develop AI systems can be translated into creative practice to support and facilitate human - AI co-creativity. The workshop introduces participants to techniques for identifying ethical concerns around AI, and explores how these concerns can inspire creative output across different domains. As part of this workshop, participants will be offered the opportunity to develop a creative output such as a story or piece of art inspired by AI ethical concerns, using AI as a co-creative tool. Participants will then work collaboratively to analyse and improve these outputs using a modified version of existing AI development hazard analysis techniques.
+
+## References
+
+Austen Rainer and Catherine Menon. 2022. Voting item: story-work in human-centric software engineering. In Proceedings of the 15th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE '22). Association for Computing Machinery, New York, NY, USA, 109–110. [https://doi.org/10.1145/3528579.3529170](https://dl.acm.org/doi/abs/10.1145/3528579.3529170)
+
+
