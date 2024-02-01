@@ -1,4 +1,4 @@
-# Ethical co-creativity with AI: A hands-on workshop at the International Conference on Computational Creativity 2024
+# Ethical co-creativity with AI: A hands-on workshop at the _International Conference on Computational Creativity_ 2024
 
 ## Abstract
 
