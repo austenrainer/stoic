@@ -4,6 +4,18 @@
 
 This hands-on workshop explores how software engineering techniques used to develop AI systems can be translated into creative practice to support and facilitate human - AI co-creativity. The workshop introduces participants to techniques for identifying ethical concerns around AI, and explores how these concerns can inspire creative output across different domains. As part of this workshop, participants will be offered the opportunity to develop a creative output such as a story or piece of art inspired by AI ethical concerns, using AI as a co-creative tool. Participants will then work collaboratively to analyse and improve these outputs using a modified version of existing AI development hazard analysis techniques.
 
+## Registration for the workshop
+
+To register for the workshop, please email the organisers (details below), providing the following information:
+- your name and affiliation;
+- the type/s of output you are interested in creating, e.g., short story, flash fiction, artwork, music;
+- whether you intend to co-create these outputs with an AI/s;
+- confirmation of your commitment to the workshop (see below);  
+- any questions you have; and
+- any other information you think the organisers should be aware of, e.g., dietary requirements, neurodiversity, physical dis/ability.
+
+If you have questions, prior to registration, please contact the organisers (see below). 
+
 ## Organisers
 
 Prof. Austen Rainer, Queen’s University Belfast, Northern Ireland (<a href="mailto:a.rainer@qub.ac.uk?subject=ICCC2024 Workshop">email</a>; Primary contact)
@@ -18,11 +30,11 @@ We'll begin by presenting participants with information about an example AI syst
 
 We'll use two expansions of HAZOP in this workshop: the extant [CHAZOP](chazop.md) methodology and a new proposed methodology, EHAZOP, which is directed towards the identification of ethical hazards. Together, the workshop explores how creative practice can be used to examine the space of ethical hazards associated with the AI system provided.
 
-## Description of the expected participants
+## Expected commitments of the expected participants
 
 Indicative number of participants are between six and eighteen participants. If there is an unsufficient number of participants, we may need to either cancel or substantially re-organise the workshop.
 
-We invite participants who:
+We ask that participants:
 - Have a background in engineering, software, computation or safety assessment
 - Will create a supportive space for co-creativity;
 - Are willing to rapidly produce preliminary creative outputs in a time-constrained situation;
