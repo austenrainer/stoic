@@ -15,6 +15,12 @@ We’ve taken a technique from safety software engineering, HAZOP, revised it, a
 
 A summary of Creative HAZOP (CHAZOP) is available [here](chazop.md).
 
+## EHAZOP: Ethical HAZOP
+
+As with CHAZOP, we’ve taken a technique from safety software engineering and revised it to create EHAZOP.
+
+A summary of Ethical HAZOP (EHAZOP) is available [here](ehazop.md).
+
 ## Ethical co-creativity with AI: A hands-on workshop at the _International Conference on Computational Creativity_ ([ICCC 2024](https://computationalcreativity.net/iccc24/))
 
 We're planning to work with computational creatives at a one-day workshop. Details are [here](iccc2024workshop.md).
