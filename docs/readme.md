@@ -17,4 +17,4 @@ A summary of Creative HAZOP (CHAZOP) is available [here](chazop.md).
 
 ## Computational creativity workshop
 
-We're planning to work with computational creatives at a one-day workshop. Details are [here](iccc2024workshop).
+We're planning to work with computational creatives at a one-day workshop. Details are [here](iccc2024workshop.md).
