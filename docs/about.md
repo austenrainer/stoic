@@ -1,4 +1,4 @@
-# STOIC: STOrIes and Computing
+# About STOIC: STOrIes and Computing
 
 ## Overview
 
