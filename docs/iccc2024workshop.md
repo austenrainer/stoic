@@ -12,23 +12,25 @@ Dr. Catherine Menon, University of Hertfordshire, England (<a href="mailto:c.men
 
 ## Description of the event’s purpose and scope
 
-The purpose of the proposed workshop is to explore how we can use structured analysis techniques drawn from software safety engineering to support both the ethical creativity of individual humans and the ethical co-creativity of humans with AI. 
+This workshops aims to explore how we can use structured analysis techniques drawn from software safety engineering to support both the ethical creativity of individual humans and the ethical co-creativity of humans with AI. 
 
 We'll begin by presenting participants with information about an example AI system and scenario, such as an assistive robot intended to help vulnerable users live independently in their homes. The workshop then explores how structured creative practice can facilitate the identification and discussion of ethical hazards and concerns with the proposed AI systems. 
 
-We'll use two expansions of HAZOP in this workshop: the extant CHAZOP methodology and a new proposed methodology, EHAZOP, which is directed towards the identification of ethical hazards. Together, the workshop explores how creative practice can be used to examine the space of ethical hazards associated with the AI system provided.
+We'll use two expansions of HAZOP in this workshop: the extant [CHAZOP](chazop.md) methodology and a new proposed methodology, EHAZOP, which is directed towards the identification of ethical hazards. Together, the workshop explores how creative practice can be used to examine the space of ethical hazards associated with the AI system provided.
 
 ## Description of the expected participants
 
-Indicative number of participants are between six and eighteen participants.
+Indicative number of participants are between six and eighteen participants. If there is an unsufficient number of participants, we may need to either cancel or substantially re-organise the workshop.
 
 We invite participants who:
 - Have a background in engineering, software, computation or safety assessment
-- Will create a supportive space for creativity;
-- Are willing to produce preliminary creative outputs in a time-constrained situation;
+- Will create a supportive space for co-creativity;
+- Are willing to rapidly produce preliminary creative outputs in a time-constrained situation;
 - Are willing to share those creative outputs with others in the workshop;
 - Are interested in stories in their various forms, e.g., flash fiction, short stories;
 - Are open-minded to the unpredictability that arises with creativity.
+
+**Note**: Our main focus will be on written stories however we would like to try to accommodate other kinds of story-telling (e.g., music). If you are interested in producing a non-literary output, such as music or artwork, please contact the organisers so that we can seek to accommodate you.
 
 ## Indicative format and duration of the workshop
 
@@ -40,19 +42,20 @@ We invite participants who:
 | - Identification of potential ethical hazards associated with this system / scenario, using the EHAZOP (Ethical HAZOP) methodology|
 | Break |
 | **Activity 2**: creative output inspired by the scenario |
-| - Participants may choose to create different kinds of output, e.g., a short, written story; a musical output or a piece of artwork. |
-| - Participants will have the option to create outputs individually or in collaboration with generative AI tools, such as ChatGPT. When co-creating the story, the human participant will be responsible for managing access to their chosen AI tools (if any), and must clearly identify the contribution/s made by the AI to the creative output. |
+| - Participants may choose to create different kinds of output. We will focus on short, written stories however we will also seek to accommodate other kinds of creative output. |
+| - Participants will have the option to create outputs individually or in collaboration with generative AI tools, such as ChatGPT. **When co-creating the story with AI/s**, **the human participant** will be responsible for managing access to their chosen AI tools (if any), and **must clearly identify the contribution/s made by the AI to the creative output**. |
 | Lunch |
 | **Activity 3**: CHAZOP workshop on creative outputs |
-| - Groups of participants collaboratively workshop a selection of the outputs from Activity 1 using the CHAZOP methodology |
+| - Groups of participants collaboratively workshop a selection of the outputs from Activity 1 using the CHAZOP or EHAZOP methodology |
 | - Depending on the number of participants and the types of output, participants may be organised into groups based on type of output, e.g., one group reviews a written story, another group reviews a musical output.|
 | Break |
 | **Activity 4**: Open discussion and evaluation |
 | Items to discuss include (these are indicative): |
 | 1.	Does xHAZOP encourage creativity? |
-| 2.	How might we assess xHAZOP’s effects on ethics? | 
-| 3.	How might we assess zHAZOP’s effects on creativity? | 
-| 4.	Does xHAZOP apply to different kinds of creative output, or is it more applicable to kinds of output, e.g., linear outputs, or written stories? | 
+| 2.	Does xHAZOP encourage ethical creativity? |
+| 3.	How might we assess xHAZOP’s effects on ethics? | 
+| 4.	How might we assess zHAZOP’s effects on creativity? | 
+| 5.	Does xHAZOP apply to different kinds of creative output, or is it more applicable to specific kinds of output, e.g., linear outputs, or written stories? | 
 | Close | 
 | Note: there may be the opportunity to organise a spontaneous celebration/performance of some or all of the outputs at the end of the workshop |
 
