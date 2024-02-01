@@ -1,3 +1,4 @@
-# Hello world
+# STOICS: Stories and Computing
 
-Check out the [About](about.md)
+For an overview to the STOICS project, check out the [About](about.md).
+For a summary of Creative HAZOP (CHAZOP), check out [this page](chazop.md).
