@@ -29,6 +29,11 @@ We invite participants who:
 
 ## Format and duration of the workshop
 
-| Activity| |
-|-----|-----|
+| Activity| 
+|-----|
+| Welcome and introduction |
+| Activity 1: scenario, ethical hazards and EHAZOP |
+| - Introduction to the AI system / scenario which will be used as the seed for creative practice in the workshop|
+| - Identification of potential ethical hazards associated with this system / scenario, using the EHAZOP (Ethical HAZOP) methodology|
+
 
