@@ -11,7 +11,7 @@ The STOIC project is an ongoing collaboration between [Catherine Menon](https://
 
 ## CHAZOP: Creative HAZOP
 
-We’ve taken a technique from safety software engineering, HAZOP, revised it, and then applied it in two recent workshops, one with professional writers and one with emerging writers, as they "workshop" each others' stories, in groups.
+We’ve taken a technique from safety software engineering, [HAZOP](https://en.wikipedia.org/wiki/Hazard_and_operability_study), revised it, and then applied it in two recent workshops, one with professional writers and one with emerging writers, as they "workshop" each others' stories, in groups.
 
 A summary of Creative HAZOP (CHAZOP) is available [here](chazop.md).
 
