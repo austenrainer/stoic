@@ -15,7 +15,7 @@ EHAZOP guidewords are to be applied to different aspects, characteristics or fun
 
 A summary of the guide words to be used in EHAZOP is included below:
 
-|  | Explanation |
+| Guideword | Explanation |
 | --- | --- |
 | More:  | some aspect, characteristic or function of the robot is increased or emphasised |
 | Less:  | some aspect, characteristic or function of the robot is decreased or de-emphasised |
@@ -31,7 +31,7 @@ A summary of the guide words to be used in EHAZOP is included below:
 
 A summary of the aspects, characteristics or functions of the robot to be used in conjunction with the guidewords is included below:
 
-|  | Explanation |
+| Component  | Explanation |
 | --- | --- |
 | Functionality:  | the functions (each must be considered individually) performed by the robot |
 | Physical design:  | the physical design and appearance of the robot |
