@@ -1,5 +1,6 @@
 # EHAZOP: Ethical HAZOP
-HAZOP can also be applied to what are termed "ethical hazards", these being all potential sources of ethical harm. A number of ethical hazards relevant to robots and robotic devices can be found in [BSI 8611](https://standardsdevelopment.bsigroup.com/projects/9021-05777), and include user robot addiction, lack of transparency and compromised user privacy. EHAZOP uses a systematic technique based on HAZOP (hazard analysis) to identify ethical hazards associated with the functionality or design of a robot.
+
+[HAZOP](https://en.wikipedia.org/wiki/Hazard_and_operability_study) can also be applied to what are termed "ethical hazards", these being all potential sources of ethical harm. A number of ethical hazards relevant to robots and robotic devices can be found in [BSI 8611](https://standardsdevelopment.bsigroup.com/projects/9021-05777), and include user robot addiction, lack of transparency and compromised user privacy. EHAZOP uses a systematic technique based on HAZOP (hazard analysis) to identify ethical hazards associated with the functionality or design of a robot.
 
 EHAZOP, or Ethical HAZOP, uses a systematic technique based on HAZOP (hazard analysis) to identify ethical hazards associated with the functionality or design of a robot.
 
