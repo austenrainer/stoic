@@ -31,4 +31,4 @@ This hands-on workshop explores how software engineering techniques used to deve
 
 Austen Rainer and Catherine Menon. 2022. Voting item: story-work in human-centric software engineering. In Proceedings of the 15th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE '22). Association for Computing Machinery, New York, NY, USA, 109–110. [https://doi.org/10.1145/3528579.3529170](https://dl.acm.org/doi/abs/10.1145/3528579.3529170)
 
-
+Austen Rainer. 2021. Storytelling in human–centric software engineering research. In Proceedings of the 25th International Conference on Evaluation and Assessment in Software Engineering (EASE '21). Association for Computing Machinery, New York, NY, USA, 241–246. [https://doi.org/10.1145/3463274.3463803](https://dl.acm.org/doi/abs/10.1145/3463274.3463803)
