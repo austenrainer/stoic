@@ -6,7 +6,7 @@ This hands-on workshop explores how software engineering techniques used to deve
 
 ## Organisers
 
-Prof. Austen Rainer, Queen’s University Belfast, Northern Ireland (Primary contact)
+Prof. Austen Rainer, Queen’s University Belfast, Northern Ireland (<a href="mailto:a.rainer@aub.ac.uk?subject=ICCC2024 Workshop">email</a>Primary contact)
 
 Dr. Catherine Menon, University of Hertfordshire, England
 
