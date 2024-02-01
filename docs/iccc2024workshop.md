@@ -27,7 +27,7 @@ We invite participants who:
 •	Are interested in stories in their various forms, e.g., flash fiction, short stories;
 •	Are open-minded to the unpredictability that arises with creativity.
 
-## Format and duration of the workshop
+## Indicative format and duration of the workshop
 
 | Activity| 
 |-----|
@@ -53,5 +53,11 @@ We invite participants who:
 | Close | 
 | Note: there may be the opportunity to organise a spontaneous celebration/performance of some or all of the outputs at the end of the workshop |
 
+## Indicative format of submissions
+
+- When participants register for the workshop, they will be asked to indicate what kind of creative output/s they would like to produce, e.g., written output, musical output. This is to help us more effectively organise the workshop.
+- Participants are not required to bring any pre-prepared work to the workshop.
+- Participants are required to bring any resources they might want to use in the workshop, e.g., a laptop to give access to ChatGPT, or to a server running some AI.
+- Participants considering musical outputs are asked to bring headphones.
 
 
