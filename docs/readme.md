@@ -18,3 +18,5 @@ A summary of Creative HAZOP (CHAZOP) is available [here](chazop.md).
 ## Computational creativity workshop
 
 We're planning to work with computational creatives at a one-day workshop. Details are [here](iccc2024workshop.md).
+
+This hands-on tutorial explores how software engineering techniques used to develop AI systems can be translated into creative practice to support and facilitate human - AI co-creativity. The tutorial introduces participants to techniques for identifying ethical concerns around AI, and explores how these concerns can inspire creative output across different domains. As part of this tutorial, participants will be offered the opportunity to develop a creative output such as a story or piece of art inspired by AI ethical concerns, using AI as a co-creative tool. Participants will then work collaboratively to analyse and improve these outputs using a modified version of existing AI development hazard analysis techniques. 
