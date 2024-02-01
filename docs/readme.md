@@ -9,6 +9,4 @@ The STOIC project is an ongoing collaboration between [Catherine Menon](https://
 + How is language used by writers and software engineers, and how does that language affect, and is affected by, by models of thinking and respective mental models?
 + To what extent do existing concepts of _story_ in software engineering, such as the _user story_ and the _scenario_, "satisfy" the criteria for a story (in the fuller sense of the word "story")? Related to this, we are investigating the extent to which software engineering has grounded its concepts of story in the narrative disciplines.
 
-For an overview to the STOICS project, check out the [About](about.md).
-
 For a summary of Creative HAZOP (CHAZOP), check out [this page](chazop.md).
