@@ -32,8 +32,26 @@ We invite participants who:
 | Activity| 
 |-----|
 | Welcome and introduction |
-| Activity 1: scenario, ethical hazards and EHAZOP |
+| **Activity 1**: scenario, ethical hazards and EHAZOP |
 | - Introduction to the AI system / scenario which will be used as the seed for creative practice in the workshop|
 | - Identification of potential ethical hazards associated with this system / scenario, using the EHAZOP (Ethical HAZOP) methodology|
+| Break |
+| **Activity 2**: creative output inspired by the scenario |
+| - Participants may choose to create different kinds of output, e.g., a short, written story; a musical output or a piece of artwork. |
+| - Participants will have the option to create outputs individually or in collaboration with generative AI tools, such as ChatGPT. When co-creating the story, the human participant will be responsible for managing access to their chosen AI tools (if any), and must clearly identify the contribution/s made by the AI to the creative output. |
+| Lunch |
+| **Activity 3**: CHAZOP workshop on creative outputs |
+- Groups of participants collaboratively workshop a selection of the outputs from Activity 1 using the CHAZOP methodology |
+- Depending on the number of participants and the types of output, participants may be organised into groups based on type of output, e.g., one group reviews a written story, another group reviews a musical output.|
+| Break |
+| **Activity 4**: Open discussion and evaluation |
+| Items to discuss include (these are indicative): |
+| 1.	Does xHAZOP encourage creativity? |
+| 2.	How might we assess xHAZOP’s effects on ethics? | 
+| 3.	How might we assess zHAZOP’s effects on creativity? | 
+| 4.	Does xHAZOP apply to different kinds of creative output, or is it more applicable to kinds of output, e.g., linear outputs, or written stories? | 
+| Close | 
+| Note: there may be the opportunity to organise a spontaneous celebration/performance of some or all of the outputs at the end of the workshop |
+
 
 
