@@ -41,8 +41,8 @@ We invite participants who:
 | - Participants will have the option to create outputs individually or in collaboration with generative AI tools, such as ChatGPT. When co-creating the story, the human participant will be responsible for managing access to their chosen AI tools (if any), and must clearly identify the contribution/s made by the AI to the creative output. |
 | Lunch |
 | **Activity 3**: CHAZOP workshop on creative outputs |
-- Groups of participants collaboratively workshop a selection of the outputs from Activity 1 using the CHAZOP methodology |
-- Depending on the number of participants and the types of output, participants may be organised into groups based on type of output, e.g., one group reviews a written story, another group reviews a musical output.|
+| - Groups of participants collaboratively workshop a selection of the outputs from Activity 1 using the CHAZOP methodology |
+| - Depending on the number of participants and the types of output, participants may be organised into groups based on type of output, e.g., one group reviews a written story, another group reviews a musical output.|
 | Break |
 | **Activity 4**: Open discussion and evaluation |
 | Items to discuss include (these are indicative): |
