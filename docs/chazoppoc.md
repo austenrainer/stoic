@@ -73,6 +73,7 @@ Qualitative responses were also sought from the participants via free-text feedb
 - “[…] I've also found it helpful as an experienced writer”
 - “Very enjoyable and interesting”
 - “It's useful after the creative part, when logic needs to be applied to our ravings”
+
 We also note that one comment was received from one of the participants, who considered the extension of CHAZOP to a solo exercise for professional writers:
 - “I think most experienced writers already do this instinctively… I already do this instinctively. I think I'd find it really clunking to run through these questions. It would slow my writing down”
 
