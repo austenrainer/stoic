@@ -1,4 +1,4 @@
-# STOICS: Stories and Computing
+# STOICS: Stories and Computational Systems
 
 ## Overview
 
