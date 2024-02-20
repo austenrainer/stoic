@@ -1,6 +1,6 @@
-# Analysis of the memoir
+# Structural summary of the memoir
 
-The following table summarises the sections and chapters of the book, indicating the page numbers of the book, the year/s in which the respective events occured ("n/s" = not stated) and Lemn Sissay's age at the time.
+The following table summarises the structure of the book, according to the sections, chapters and page numbers of the book. In addition, the table provides the year/s in which the respective events occured ("n/s" = not stated) and Lemn Sissay's age at the time. As the table indicates, the book progresses in a mostly chronological order except for the Preface.
 
 |	Section	|	Chapter	|	Pages	|	Years	|	Age	|
 |	------	|	------	|	------	|	------	|	------	|
@@ -44,4 +44,9 @@ The following table summarises the sections and chapters of the book, indicating
 |		|	30	|	181--189	|	1984, 1985	|		|
 |		|		|		|		|		|
 |	EPILOGUE	|		|	p191	|		|		|
+
+In terms of the content of chapters, chapters comprise:
+* Textual content, in which Lemn Sissay shares his memories and opinions on his past.
+* Documentary evidence, i.e., scans of letters and of parts of reports that were written about him and filed.
+* Some photos, e.g., of Lemn.
 
