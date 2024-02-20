@@ -35,3 +35,7 @@ Five projects have been successfully undertaken to date, or are being undertaken
 * An MEng final-year research and development project that used the memoir to explore the limits of existing research on Personas, proposed a new method for constructing Personas and then developed a prototype software system to guide the interactive development of those Personas.
 * In a taught final-year module with 150+ students, working in teams of 4-6 students, the students used the memoir as input into team-based software innovation. Each team identified a challenging 'problem' in the memoir, brainstormed ways to address that 'problem' and then prototyped a software solution for one of those ways.
 
+## Bibliography
+
+Rainer, A. and Wohlin, C., 2022. Recruiting credible participants for field studies in software engineering research. Information and Software Technology, 151, p.107002. https://www.sciencedirect.com/science/article/pii/S095058492200129X
+
