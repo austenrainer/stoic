@@ -12,18 +12,19 @@ but in addition, the programme also considers:
 
 ## _My Name is Why_, by Lemn Sissay
 
-The main memoir used so far in this project is Lemn Sissay's _My Name is Why_. Put very briefly, the memoir describes Sissay's experience as a Black person growing up in State-managed foster care in the UK during the late-1960s through early-1980s.
+The main memoir used so far in this programme of work is Lemn Sissay's _My Name is Why_. Put very briefly, the memoir describes Sissay's experience as a Black person growing up in State-managed foster care in the UK during the late-1960s through early-1980s.
 
-This _My Name is Why_ memoir was selected because:
+_My Name is Why_ memoir was selected because:
 
 1. It contains a large body of documentary evidence, collected independently of Sissay (and without his knowledge) during his childhood. Thus, in principle, the documentary evidence provides a different representation of the world - a different kind of representation of the world - compared to Sissay's personal experience of the world. (There is of course the issue that Sissay has _selected_ the documentary evidence to be included in the memoir.) Computational systems also represent the world. Consequently, the memoir supports the examination of different representations: the documentary evidence, Sissay's personal experience, possible computational representations. This connects to Contributions 2 and 3 above.
 2. It raises important questions about society, e.g., children living in foster care, the role of the State, prejudice (in particular, racism). This is important for challenging software engineers, and other computational thinkers, to think about to think both about a) the impact of computational systems on the world, and b) what can and cannot be represented in a computational system.
+3. It occurs at a time before computational systems were commonplace.
 
-Other memoirs were considered, including: Mohamedou Ould Slahi's _Guantánamo Diary_, Jackie Kohnstamm's _The Memory Keeper_, Colin Grant's _Homecoming_, Polly Curtis' _Behind Closed Doors_, Suad Aldarra's _I Don't Want To Talk About Home_, and Clyde W. Ford's _Think Black_. All of these raise important questions about society (criterion #2 above) however none provide the extent of documentary evidence (criterion #1) comparable to Sissay's memoir.
+Many other memoirs were considered, including: Mohamedou Ould Slahi's _Guantánamo Diary_, Jackie Kohnstamm's _The Memory Keeper_, Colin Grant's _Homecoming_, Polly Curtis' _Behind Closed Doors_, Suad Aldarra's _I Don't Want To Talk About Home_, and Clyde W. Ford's _Think Black_. All of these raise important questions about society (criterion #2 above) and some occur before the pervasive use of computational systems (criterion #3) however none provide the extent of documentary evidence (criterion #1) comparable to Sissay's memoir.
 
 ## Projects within the wider programme
 
-Five student-oriented projects have been successfully undertaken to date, or are being undertaken:
+Five projects have been successfully undertaken to date, or are being undertaken:
 * An undergraduate final-year project that used the memoir to explore the design of a micro-services architecture to maintain information about foster children. This project assumed that the different institutions involve in the memoir (e.g., each school, each foster home) maintained their own information on children. The project looked at how these different institutions might create a way of sharing information between the institutions.
 * An undergraduate final-year project that used the memoir to explore the design of a standalone software system in which children in care can raise concerns and requests about the behaviour of staff in a foster home.
 * A taught postgraduate final-year project used the memoir to create an extensive set of user stories for two users, a foster child and a social worker, and then built a software system to satisfy those user stories.
