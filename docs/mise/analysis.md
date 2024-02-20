@@ -1,9 +1,9 @@
 # Analysis of the memoir
 
 
-|	Chapter	|	Pages	|	Years	|	Age	|
+|	Section/Chapter	|	Pages	|	Years	|	Age	|
 |	------	|	------	|	------	|	------	|
-|	PREFACE	|		|		|		|
+|	**Preface**	|		|		|		|
 |		|	1--2	|	2015	|	18 & 48	|
 |	FOSTER PARENTS	|		|		|		|
 |	1	|	3--14	|	1967, 1968	|	6wks, 228dys	|
