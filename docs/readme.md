@@ -21,6 +21,12 @@ As with CHAZOP, we’ve taken a technique from safety software engineering and r
 
 A summary of Ethical HAZOP (EHAZOP) is available [here](ehazop.md).
 
+## Memoir in Software Engineering
+
+A programme of work, comprising multiple projects, that investigates the contribution of memoir to software engineering. 
+
+Further information is available [here](/mise/overview.md).
+
 ## Ethical co-creativity with AI: A hands-on workshop at the _International Conference on Computational Creativity_ ([ICCC 2024](https://computationalcreativity.net/iccc24/))
 
 We're planning to work with computational creatives at a one-day workshop. Details are [here](iccc2024workshop.md).
