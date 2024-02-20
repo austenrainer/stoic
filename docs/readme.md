@@ -25,7 +25,7 @@ A summary of Ethical HAZOP (EHAZOP) is available [here](ehazop.md).
 
 A programme of work, comprising multiple projects, that investigates the contribution of memoir to software engineering. 
 
-Further information is available [here](/mise/overview.md).
+Further information is available [here](./mise/overview.md).
 
 ## Ethical co-creativity with AI: A hands-on workshop at the _International Conference on Computational Creativity_ ([ICCC 2024](https://computationalcreativity.net/iccc24/))
 
