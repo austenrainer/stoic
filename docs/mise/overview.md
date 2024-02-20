@@ -8,7 +8,7 @@ The aim of this programme of work is to investigate the contribution of memoir t
 
 but in addition, the programme also considers:
 
-3. The use of memoir as a mechanism for sharing experience and insights into software engineering. The most well-known memoir in this category is probably Fred Brook's _The Mythical Man-Month_, in which Brooks share's his experience of developing IBM's OS/360 operating system, as well as reflecting on and proposing theoretical contributions, e.g., Brook's Law.
+3. The use of memoir as a mechanism for sharing experience and insights into software engineering. The most well-known memoir in this category is probably Fred Brook's _The Mythical Man-Month_, in which Brooks share's his experience of developing IBM's OS/360 operating system, as well as reflecting on and proposing theoretical contributions, e.g., Brook's Law. An indicative reference here is Soyer and Hogarth's [The Myth of Experience](https://www.hachettebookgroup.com/titles/emre-soyer/the-myth-of-experience/9781541742055/).
 
 ## _My Name is Why_, by Lemn Sissay
 
