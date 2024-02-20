@@ -3,7 +3,7 @@
 The following table summarises the sections and chapters of the book, indicating the page numbers, the years and Lemn Sissay's age.
 
 |	Section	|	Chapter	|	Pages	|	Years	|	Age	|	Scans	|	Photos	|	Other	|
-|	------	|	------	|	------	|	------	|	------	|	------	|				
+|	------	|	------	|	------	|	------	|	------	|	------	|		|		|
 |		|		|		|		|		|		|		|		|
 |	PREFACE	|		|	1--2	|	2015	|	18 & 48	|		|		|		|
 |		|		|		|		|		|		|		|		|
