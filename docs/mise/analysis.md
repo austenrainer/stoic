@@ -1,6 +1,6 @@
 # Analysis of the memoir
 
-The following table summarises the sections and chapters of the book, indicating the page numbers, the years and Lemn Sissay's age.
+The following table summarises the sections and chapters of the book, indicating the page numbers of the book, the year/s in which the respective events occured ("n/s" = not stated) and Lemn Sissay's age at the time.
 
 |	Section	|	Chapter	|	Pages	|	Years	|	Age	|
 |	------	|	------	|	------	|	------	|	------	|
