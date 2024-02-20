@@ -26,7 +26,7 @@ _My Name is Why_ memoir was selected because:
 
 Many other memoirs were considered, including: Mohamedou Ould Slahi's _Guantánamo Diary_, Jackie Kohnstamm's _The Memory Keeper_, Colin Grant's _Homecoming_, Polly Curtis' _Behind Closed Doors_, Suad Aldarra's _I Don't Want To Talk About Home_, and Clyde W. Ford's _Think Black_. All of these raise important questions about society (criterion #2 above) and some occur before the pervasive use of computational systems (criterion #3) however none provide the extent of documentary evidence (criterion #1) comparable to Sissay's memoir.
 
-A summary of the structure of the book is available [here](./mise/summary.md)
+A summary of the structure of the book is available [here](summary.md)
 
 ## Projects within the wider programme
 
