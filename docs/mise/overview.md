@@ -18,5 +18,12 @@ This _My Name is Why_ memoir was selected because:
 
 Other memoirs were considered, including: Mohamedou Ould Slahi's _Guantánamo Diary_, Jackie Kohnstamm's _The Memory Keeper_, Colin Grant's _Homecoming_, Polly Curtis' _Behind Closed Doors_, Suad Aldarra's _I Don't Want To Talk About Home_, and Clyde W. Ford's _Think Black_. All of these raise important questions about society (criterion #2 above) however none provide the extent of documentary evidence (criterion #1) comparable to Sissay's memoir.
 
+## Projects within the wider programme
 
+Five student-oriented projects have been successfully undertaken to date, or are being undertaken:
+* An undergraduate final-year project that used the memoir to explore the design of a micro-services architecture to maintain information about foster children. This project assumed that the different institutions involve in the memoir (e.g., each school, each foster home) maintained their own information on children. The project looked at how these different institutions might create a way of sharing information between the institutions.
+* An undergraduate final-year project that used the memoir to explore the design of a standalone software system in which children in care can raise concerns and requests about the behaviour of staff in a foster home.
+* A taught postgraduate final-year project used the memoir to create an extensive set of user stories for two users, a foster child and a social worker, and then built a software system to satisfy those user stories.
+* An MEng final-year research and development project that used the memoir to explore the limits of existing research on Personas, proposed a new method for constructing Personas and then developed a prototype software system to guide the interactive development of those Personas.
+* A taught final-year module, with 150+ students working in teams, that used the memoir as an input into team-based software innovation. Each team identified a challenging 'problem' in the memoir, brainstormed ways to address that 'problem' and then prototyped a software solution for one of those ways.
 
