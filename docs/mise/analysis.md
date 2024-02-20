@@ -43,4 +43,4 @@ The following table summarises the sections and chapters of the book, indicating
 |		|	29	|	173--179	|	1984	|		|	4	|		|		|
 |		|	30	|	181--189	|	1984, 1985	|		|	6	|		|	1	|
 |		|		|		|		|		|		|		|		|
-|	EPILOGUE	|		|	p191	|		|		|		|		|		|![image](https://github.com/austenrainer/stoics/assets/3978997/936dff95-0438-4296-ba10-a57ebcefe07c)
+|	EPILOGUE	|		|	p191	|		|		|		|		|		|
