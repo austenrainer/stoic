@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+mermaid: true
+
+use_math: true
