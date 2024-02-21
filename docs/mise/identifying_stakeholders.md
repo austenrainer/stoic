@@ -47,6 +47,8 @@ The Preface of the _My Name is Why_ memoir serves as a suitable example for appl
 | "... a data company called The Iron Mountain." | An actual organisation | Given the use of "The Authority", an obvious inference is that The Iron Mountain is a made-up name.|
 | "... placed me with incapable foster parents." | Unnamed, actual individuals | |
 | "Chief Executive of Wigan Council, Donna Hall." | A role, an institution and an individual | Three types of stakeholder are identified here. |
+| "... moved me from institution to institution." | Unnamed organisations | | 
+| "... no witnesses, no family." | roles, unnamed family| Here there is a distinction between roles (witness, family) and named individuals|
 | "I took The Authority to court." | Unnamed individual, named institution, implied institution | This example is connecting three stakeholders. |
 
 The analysis of the Preface identified the following _types_ of stakeholders.
@@ -62,7 +64,7 @@ The analysis of the Preface identified the following _types_ of stakeholders.
 | Named services | Customer Service |
 | Real-named organisations | Wigan Council, The Iron Mountain |
 | Alternatively-named organisations | The Authority |
-| Unnamed organisations | court |
+| Unnamed organisations | court, institutions |
 
 ## Brief discussion
 
