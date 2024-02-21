@@ -23,7 +23,7 @@ A summary of Ethical HAZOP (EHAZOP) is available [here](ehazop.md).
 
 ## Memoir in Software Engineering
 
-A programme of work, comprising multiple projects, that investigates the contribution of memoir to software engineering. 
+we have an ongoing programme of work, comprising multiple projects, that investigates the contribution of memoir to software engineering. 
 
 Further information is available [here](./mise/overview.md).
 
