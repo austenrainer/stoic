@@ -38,3 +38,16 @@ Some questions to help in your use of the method are:
 | "Secret meetings were held...” | Suggests meeting attendees | Again, this is an example of anction, suggesting multiple actors |
 | "Decisions were made..." | Suggests decision-makers | Again, who are these decision makers?|
 
+The analysis of the Preface identified the following types of stakeholders.
+
+|Type | Examples |
+| ---- | ------- |
+| Unnamed individuals | “me”, father, mother |
+| Named individuals | Donna Hall |
+| Implied groups of people | Typists, people at meetings, Customer Services, foster parents, family, aunts, uncles |
+| Unnamed roles | Decision-makers |
+| Named roles | Chief Executive |
+| Named services | Customer Service |
+| Named organisations | Wigan Council, The Iron Mountain |
+| Unnamed organisations | Authority, institutions |
+
