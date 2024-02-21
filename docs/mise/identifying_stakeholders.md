@@ -64,14 +64,18 @@ The analysis of the Preface identified the following _types_ of stakeholders.
 | Alternatively-named organisations | The Authority |
 | Unnamed organisations | court |
 
-## Reflection
+## Brief discussion
 
-The preceding discussion has introduced a simple method and briefly demonstrated the application of that method to a single chapter of the _My Name is Why_ memoir. In the space of two short pages of the memoir, ten different types of stakeholder are identified. There are indications of how these stakeholders relate to each other, e.g., through familial relationship, decision making, or legal action.
+The preceding discussion has introduced a simple method and briefly demonstrated the application of that method to a _single_ chapter of the _My Name is Why_ memoir. In the space of two short pages of the memoir, ten different types of stakeholder are identified. There are indications of how these stakeholders relate to each other, e.g., through familial relationship, decision making, or legal action.
+
+As noted, the example is of one chapter. There are clearly scaling issues, i.e., as one analyses an increasing number of chapters so one develops an increasingly elaborate set of potential stakeholders. This is an example of how memoirs can act as a complex case study, and also how the memoir can be used for education, e.g., begin with one chapter, grow with several chapters, then scale up (potentially) to the whole memoir.
 
 ## Where next?
 
 Immediate next steps are:
 
 1. At least some of these stakeholders will need to be further developed. Subsequent chapters of the memoir provide a considerable body of information that can be used to develop these stakeholders.
-2. Relationshps between stakeholders will need to be understood and modelled.
-3. Some of these stakeholders can be selected as candidates for further development into Personas.
+2. Other stakeholders will emerge as one reads the memoir.
+3. Relationshps between stakeholders will need to be understood and modelled.
+4. Some of these stakeholders can be selected as candidates for further development into Personas. These Personas will need developing.
+5. Personas will have Persona Journeys.
