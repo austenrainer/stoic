@@ -9,6 +9,10 @@ The STOIC project is an ongoing collaboration between [Catherine Menon](https://
 3. How is language used by writers and software engineers, and how does that language affect, and is affected by, by models of thinking and respective mental models?
 4. To what extent do existing concepts of _story_ in software engineering, such as the _user story_ and the _scenario_, "satisfy" the criteria for a story (in the fuller sense of the word "story")? Related to this, we are investigating the extent to which software engineering has grounded its concepts of story in the narrative disciplines. One potential criterion for assessing a 'true/r' story is the respective text's ability to transport the reader into a _story world_.
 
+## Story-thinking and computational-thinking
+
+We begin to sketch the relationship between the two modes of thinking, using the fairy tale, [Hansel and Gretel](./hagase/overview.md).
+
 ## CHAZOP: Creative HAZOP
 
 We’ve taken a technique from safety software engineering, [HAZOP](https://en.wikipedia.org/wiki/Hazard_and_operability_study), revised it, and then applied it in two recent workshops, one with professional writers and one with emerging writers, as they "workshop" each others' stories, in groups.
