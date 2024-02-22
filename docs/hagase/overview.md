@@ -2,6 +2,8 @@
 
 ## Overview
 
+One of the more important contributions of story, and story-thinking, is that it _disrupts_ computational thinking. Approaching a situation, the computational thinker by definition thinks in terms of computations. Computational-thinking frames the world in a certain kind of way. A human being who excels in computational-thinking (e.g., a programmer, a software engineer) may tend to naturally view the world computationally, quickly and unconsciously making assumptions in relation to computations. Story-thinking disrupts that quick and unconscious framing, encouraging the human to re-think. In other words, story-thinking can _bewilder_ the computational-thinker.
+
 
 ## A reference version of the story
 
@@ -55,13 +57,17 @@
 
 The Hansel and Gretel story allows us to think about:
 
-| Item | Comment |
+| Item | Relevance to Software Engineering |
 | ---- | ------- |
-| Characters | These suggest stakeholders, personas and potentially users |
+| Characters | Characters suggest stakeholders, personas and potentially users |
 | Goals | |
-| Problems | It is characters who have problems. |
-| Relationships | |
-| Scenes | This suggests scenarios, use cases, etc. |
-| Procedures | Suggests algorithms |
+| Problems | It is characters who have problems. Problems become the focus for software solutions. |
+| Relationships | Relationships between characters suggest:|
+| | a) political relationships |
+| | b) interactions that might be relevant to software systems |
+| | c) effects of behaviour on others |
+| | d) conflicts between prospective users |
+| Scenes | Scenes suggest possible scenarios, use cases, etc. |
+| Procedures | Suggest algorithms |
 
 
