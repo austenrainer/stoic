@@ -10,7 +10,7 @@ The method is this:
 4. Review and revise.
 5. The revised categories may be treated as potential stakeholders and, therefore, as candidate personas.
 
-The method has been visualised below, using [Mermaid](https://mermaid.js.org/intro/syntax-reference.html). (Note: whilst GitHub supports Mermaid, GitHub Pages currently does not. The Mermaid code is included here in anticipation of future support and in anticipate of moving this documentation to a more accommodating platform...)
+The method has been visualised below, using [Mermaid](https://mermaid.js.org/intro/syntax-reference.html). (Note: whilst GitHub supports Mermaid, GitHub Pages currently does not. The Mermaid code is included here in anticipation of future support and in anticipation of moving this documentation to a more accommodating platform...)
 
 ```mermaid
   graph TD;
