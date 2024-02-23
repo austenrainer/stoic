@@ -48,6 +48,7 @@ Five projects have been successfully undertaken to date, or are being undertaken
 There are several specific ways in which memoir can contribute to software engineering:
 
 * [Identifying stakeholders](identifying_stakeholders.md)
+* [Identifying problems](identifying_problems.md)
 
 ## References
 
