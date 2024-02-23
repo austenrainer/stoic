@@ -24,6 +24,7 @@ The method has been visualised below, using [Mermaid](https://mermaid.js.org/int
 ```
 
 Some questions to help in your use of the method are:
+
 1. What names of specific people or specific organisations can you find?
 2. What names of generic people or organisations can you find?
 3. What unnamed individuals are referred to, or implied?
@@ -36,7 +37,6 @@ Some questions to help in your use of the method are:
 
 The Preface of the _My Name is Why_ memoir serves as a suitable example for applying the method. The Preface comprises two pages (page 1 and 2 of the book). Due to copyright, the Preface is not reproduced here.
 
-
 | Quote | Actor | Comment |
 | ----- | ----- | ----- |
 | "At fourteen I tattooed..." | The narrator, Lemn Sissay | |
@@ -47,7 +47,7 @@ The Preface of the _My Name is Why_ memoir serves as a suitable example for appl
 | "... a data company called The Iron Mountain." | An actual organisation | Given the use of "The Authority", an obvious inference is that The Iron Mountain is a made-up name.|
 | "... placed me with incapable foster parents." | Unnamed, actual individuals | |
 | "Chief Executive of Wigan Council, Donna Hall." | A role, an institution and an individual | Three types of stakeholder are identified here. |
-| "... moved me from institution to institution." | Unnamed organisations | | 
+| "... moved me from institution to institution." | Unnamed organisations | |
 | "... no witnesses, no family." | roles, unnamed family| Here there is a distinction between roles (witness, family) and named individuals|
 | "I took The Authority to court." | Unnamed individual, named institution, implied institution | This example is connecting three stakeholders. |
 

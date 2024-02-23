@@ -1,6 +1,6 @@
 # Identifying problems from memoirs
 
-Aanalysing a memoir can help the analyst to better understand a real-world problem or, alternatively, the memoir can act as a complex case study for students to analyse. 
+Aanalysing a memoir can help the analyst to better understand a real-world problem or, alternatively, the memoir can act as a complex case study for students to analyse.
 
 In linear form, memoir-analysis fits into the following process (see table):
 

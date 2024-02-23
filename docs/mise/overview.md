@@ -5,6 +5,7 @@
 The aims of this programme of work are to better understand the contribution that memoir can make to software engineering, to promote that contribution, and to use memoir to change thinking in software engineering.
 
 From this aim, we formulate the following objectives:
+
 1. To better understand the use of memoir as  a source of information into the software engineering process itself. The most obvious contribution of memoir is into the requirements engineering process, e.g., suggesting stakeholders, however memoir may also make a contribution into other areas of software engineering, e.g., database design and software testing.
 2. To better understand _how_ memoir uses language to _represent_ the world, in contrast to how software engineering uses language (natural or artificial) to represent the world. For example, a metaphor is a kind of abstraction, but a kind of abstraction very different to object-oriented class-based inheritance.
 3. To better understand the use of memoir as a mechanism for sharing experience and insights into software engineering. The most well-known memoir in this category is probably Fred Brook's [_The Mythical Man-Month_](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), in which Brooks share's his experience of project-managing the development of IBM's OS/360 operating system, as well as reflecting on and proposing theoretical contributions, e.g., [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law). An indicative reference of the kind of work we want to do here, which also challenges the contribution of experience, is Soyer and Hogarth's [The Myth of Experience](https://www.hachettebookgroup.com/titles/emre-soyer/the-myth-of-experience/9781541742055/).
@@ -37,6 +38,7 @@ A summary of the structure of the book is [here](summary.md)
 ## Projects within the wider programme
 
 Five projects have been successfully undertaken to date, or are being undertaken:
+
 * A successfully-completed undergraduate final-year project that used the memoir to explore the design of a micro-services architecture to maintain information about foster children. This project assumed that the different institutions involved in the memoir (e.g., each school, each foster home) maintained their own independently-collected information on each child. The project looked at how at how independent computing systems, one per institution, might share information between the institutions.
 * An ongoing undergraduate final-year project in which the student focused on the memoirist's experiences of a particular foster care home. The student used those experiences as a motivation to prototype a software system in which children in care can raise concerns and requests about the behaviour of staff in a foster care home.
 * A successfully-completed, taught postgraduate final-year project used the memoir to create an extensive set of user stories for two users, a foster child and a social worker, and then built and evaluated a software system to satisfy those user stories.
@@ -53,4 +55,3 @@ There are several specific ways in which memoir can contribute to software engin
 ## References
 
 Rainer, A. and Wohlin, C., 2022. Recruiting credible participants for field studies in software engineering research. Information and Software Technology, 151, p.107002. https://www.sciencedirect.com/science/article/pii/S095058492200129X
-
