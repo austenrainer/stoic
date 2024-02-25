@@ -30,12 +30,14 @@ A possible site map is something like the following
       G[Examples]
       G1[Hansel & Gretel];
       G2[Memoir]
-      H[Bibliography]
+      H[Projects]
+      I[Bibliography]
       A --->B;
       A --->F;
       A -->G;
       A -->Z;
       A -->H;
+      A -->I;
       B -->B1;
       B -->B2;
       B -->B3;
