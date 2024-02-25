@@ -19,6 +19,9 @@ A possible site map is something like the following
   graph TD;
       A["Overview (readme.md)"];
       Z[Conceptual];
+      Z1[Obj];
+      Z2[RQs];
+      Z3[Hs];
       B[Methods];
       B1[CHAZOP];
       B2[EHAZOP];
@@ -46,6 +49,9 @@ A possible site map is something like the following
       F -->F2;
       G -->G1;
       G -->G2;
+      Z -->Z1;
+      Z -->Z2;
+      Z -->Z3;
      
 ```
 
