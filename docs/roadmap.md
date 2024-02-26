@@ -55,8 +55,6 @@ A possible site map is something like the following
      
 ```
 
-
-
 ## Draft content
 
 The value of story in software engineering:
@@ -66,5 +64,4 @@ The value of story in software engineering:
    2. As a case study for designing a database;
 2. Using stories to raise ethical, moral etc. issues, e.g., about responsible SE.
 3. Using stories to help professional software engineers understand an application domain.
-4. 
-5. Using memoirs to identify problems for 
+4. Using memoirs to identify problems for computational solutions. 
