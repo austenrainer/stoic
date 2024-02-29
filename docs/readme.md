@@ -25,6 +25,10 @@ As with CHAZOP, we’ve taken a technique from safety software engineering and r
 
 A summary of Ethical HAZOP (EHAZOP) is available [here](ehazop.md).
 
+## Project-of-concept pilot studies
+
+Project-of-concept pilot studies were conducted for CHAZOP. Further information is [here](chazoppoc.md).
+
 ## Memoir in Software Engineering
 
 we have an ongoing programme of work, comprising multiple projects, that investigates the contribution of memoir to software engineering. 
